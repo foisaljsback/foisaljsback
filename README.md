@@ -9,13 +9,13 @@ I'm a 2 years experienced full stack developer.Currently I am doing full-time jo
 - **Tools**: Git, Docker etc
 
 ## 🌱 Currently Learning
-I'm currently diving into [New Technologies or Concepts you're learning, e.g., Machine Learning, Rust, etc.], and I'm excited to share my journey!
+I'm currently diving into New Technologies or Concepts you're learning, e.g., Machine Learning, Rust, etc., and I'm excited to share my journey!
 
 ## 💬 Let's Connect
 Feel free to reach out if you’d like to collaborate on projects, share ideas, or just chat! You can find me on:
 - [Twitter](your_twitter_link)
 - [LinkedIn](your_linkedin_link)
-- [Personal Website](your_website_link)
+
 
 ## 📈 GitHub Stats
 (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
